@@ -2,9 +2,9 @@
 
 ##### <font color=grey>作者：宣正吉&nbsp;&nbsp;&nbsp;&nbsp;开发时长：10 小时左右</font>
 
-项目 GitHub 链接：
+项目 GitHub 链接：https://github.com/cherreggy/hitman3-manager
 
-部署链接：
+部署链接：https://hitman3-manager-lmnw4xmt-cherreggy.4everland.app/
 打开上面的部署链接可以直接查看所写系统的呈现效果！！！
 
 ##### <font color=darkred>技术栈：React、Ant Design、js-cookie 等</font>
