@@ -1,0 +1,67 @@
+.main_pannel {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 60%;
+  background-color: #eee;
+  padding-bottom: 2000px;
+  margin-bottom: -2000px;
+  box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.5);
+}
+
+.welcome {
+  background-color: #fff;
+  padding: 1vw;
+  box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.1);
+}
+
+.welcome1 {
+  margin: 0;
+  padding: 0;
+  font-size: 1vw;
+  font-weight: 700;
+  transition: margin-left 0.5s;
+  cursor: pointer;
+}
+
+.welcome2 {
+  margin-top: 0.5vw;
+  transition: margin-left 0.5s;
+  cursor: pointer;
+}
+
+.welcome2:hover,
+.welcome1:hover {
+  margin-left: 1vw;
+}
+
+.red {
+  color: rgb(226, 0, 0);
+}
+
+.add_info {
+  background-color: #fff;
+  padding: 2vw;
+  margin-top: 1vw;
+  box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.1);
+}
+
+.operates {
+  width: 100%;
+  text-align: right;
+}
+
+.table {
+  height: 50vh;
+  overflow: scroll;
+}
+
+::-webkit-scrollbar {
+  display: none; /* Chrome Safari */
+}
+
+.window {
+  background-image: url(https://wx2.sinaimg.cn/crop.0.6.1920.1067/60ade0f3ly1ghxp1csyrwj21hc0u0gz5.jpg);
+  background-size: cover;
+}
